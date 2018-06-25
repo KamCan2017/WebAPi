@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPi", "WebAPi\WebAPi.csproj", "{58470393-1287-4D99-A07E-AD0246EBF587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather_Report", "Weather_Report\Weather_Report.csproj", "{C6D29E17-6FD1-46C6-BCF3-36F4D962ECB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58470393-1287-4D99-A07E-AD0246EBF587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58470393-1287-4D99-A07E-AD0246EBF587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58470393-1287-4D99-A07E-AD0246EBF587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58470393-1287-4D99-A07E-AD0246EBF587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D29E17-6FD1-46C6-BCF3-36F4D962ECB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D29E17-6FD1-46C6-BCF3-36F4D962ECB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D29E17-6FD1-46C6-BCF3-36F4D962ECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D29E17-6FD1-46C6-BCF3-36F4D962ECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E871EDAA-72CF-4B38-A93D-FC8148EB8C38}
+	EndGlobalSection
+EndGlobal
